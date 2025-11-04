@@ -14,6 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+🩺 DAB App – Doctor Appointment Booking
+The DAB App allows users to browse doctors, view detailed profiles, and book appointments effortlessly.
+Built using Flutter (Material 3 Design), the app ensures a seamless and responsive user experience
+🧩 Features
+📋 Doctor listing using ListView/GridView
+👨‍⚕️ Detailed doctor profiles with image, specialty, and availability
+⭐ Ratings & patient count for better trust indicators
+🧭 Smooth navigation using Navigator.push()
+🧠 Booking data stored temporarily via SharedPreferences
+✅ Basic form validation for booking details
+🎨 Flat blue & white minimal theme for a clean look
+💙 Material 3 & Cupertino design consistency
+Tech Stack
+Framework: Flutter
+Language: Dart
+UI: Material 3 / Cupertino
+Storage: SharedPreferences
 ![Image](https://github.com/user-attachments/assets/51659aa4-72a0-4c49-9775-39c332f2feb3)
 
 ![Image](https://github.com/user-attachments/assets/14fc4ed5-09a8-404c-bd4b-a388e07f6c66)
